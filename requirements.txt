@@ -1,5 +1,4 @@
 pandas
-torchtext==0.8.0
 torch==1.7.1
 pytorch-lightning==1.2.2
 transformers==4.8.2
